@@ -11,3 +11,6 @@ wheels/
 stacks
 .DS_Store
 *.png
+
+# passwords
+*.txt
